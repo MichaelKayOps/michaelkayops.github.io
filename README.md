@@ -6,7 +6,7 @@ I use SQL, Power BI, and business analysis to turn operational and commercial da
 
 ## Featured Project
 
-### [Olist E-Commerce Analytics](https://github.com/MichaelKay-Ops/olist-ecommerce-analytics)
+### [Olist E-Commerce Analytics](https://github.com/MichaelKayOps/olist-ecommerce-analytics.git)
 
 An end-to-end analysis of sales growth, delivery performance, customer satisfaction, and repeat purchasing using SQL Server and Power BI.
 
